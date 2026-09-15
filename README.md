@@ -1,5 +1,7 @@
 <p align="center">
   <a href="https://gitfut.com/belnadris"><img src="https://gitfut.com/belnadris.png" alt="GitFut card for belnadris" width="180"></a>
+  <br>
+  <sub>My GitHub activity as a FUT card, rated by <a href="https://gitfut.com/belnadris">GitFut</a></sub>
 </p>
 
 Freelance CTO & Tech Lead based in Nantes, France. Freelance since 2015.
