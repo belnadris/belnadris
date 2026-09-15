@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://gitfut.com/belnadris"><img src="https://gitfut.com/belnadris.png" alt="GitFut card for belnadris" width="180"></a>
+</p>
+
 Freelance CTO & Tech Lead based in Nantes, France. Freelance since 2015.
 15 years shipping software, €2M+ ARR built through SaaS products from scratch.
 
@@ -23,10 +27,6 @@ AI integration: Claude, OpenAI, Gemini, OpenCode, LangChain, RAG, agents, n8n, p
 ### Open source
 
 Most active work happens in client codebases. See pinned repos below for selected public work.
-
-<p align="center">
-  <a href="https://gitfut.com/belnadris"><img src="https://gitfut.com/belnadris.png" alt="GitFut card for belnadris" width="240"></a>
-</p>
 
 Stack philosophy: technology is a means, not an end. The right tool for the problem, not the latest one.
 
